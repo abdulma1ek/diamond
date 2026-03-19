@@ -1,0 +1,30 @@
+# Data & Logs
+data/
+logs/
+history/
+versions/
+meta/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.eggs/
+
+# Env
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local state
+current_task.json
